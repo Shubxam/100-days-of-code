@@ -8,3 +8,4 @@
 - [ ] Revise python basics from scratch <br>
 ` Python Data Structures and Objects, Python Operators, Python Statements, Methods and Functions in Python`
 - [ ] Study Unit - 1 of IR
+- [ ] Start with the Book `Intro to Statistical Learning`
