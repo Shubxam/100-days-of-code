@@ -1,11 +1,33 @@
 # 100 Days of Code
 
-## **Day 1**
+This is the repo I intend to maintain for next 100 days (hopefully even more) journaling every productive task I do in order to remain accountable.
 
- *18th March* 
-- [ ] Revision of Andrew Ng's Week - 1
-- [ ] Complete 1st lecture of [Missing Semester](https://missing.csail.mit.edu/2020/course-shell/)
-- [ ] Revise python basics from scratch <br>
-` Python Data Structures and Objects, Python Operators, Python Statements, Methods and Functions in Python`
-- [ ] Study Unit - 1 of IR
-- [ ] Start with the Book `Intro to Statistical Learning`
+---
+
+### Day 1 | 22/08/20 | Friday
+
+**Major**
+
+- R
+  - [Coercion](https://rafalab.github.io/dsbook/r-basics.html#sorting)
+  - [Sorting](https://rafalab.github.io/dsbook/r-basics.html#sorting)
+
+**Minor**
+
+- Finish notes of lec-1 Missing Semester.
+  - Read in detail about
+  
+    - [Streams](https://en.wikibooks.org/wiki/Bourne_Shell_Scripting/Files_and_streams) in Shell
+  
+    - Pipe Character
+
+- Learn Vim
+  - Navigation
+  - Deletion
+  - Motion
+  - Undo
+
+
+
+
+
