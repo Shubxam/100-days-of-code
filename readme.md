@@ -29,5 +29,17 @@ This is the repo I intend to maintain for next 100 days (hopefully even more) jo
 
 
 
+### Day 2-3 | 22-23/08/20 | Saturday-Sunday
 
+**Major**
+
+- Review Flutter
+- Create Start up name Generator App in flutter.
+
+**Minor**
+
+- Revise Calculus Concepts.
+- Started Learning Git.
+
+- Read how dataviz is used at companies like FAANG
 
