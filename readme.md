@@ -59,3 +59,7 @@ This is the repo I intend to maintain for next 100 days (hopefully even more) jo
 
 - Continued learning statistics on coursera.
 - Continued learning vim.
+  - replace character : `rx`
+  - change words/sentences : `c[w$]`
+  - traversing through file using `ctrl+G`, `G`, `gg`
+  - searching in file using `/`, `?` and traversing through results.
