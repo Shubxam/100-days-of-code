@@ -43,3 +43,19 @@ This is the repo I intend to maintain for next 100 days (hopefully even more) jo
 
 - Read how dataviz is used at companies like FAANG
 
+
+
+### Day 4 | 24/08/20 | Monday
+
+**Major**
+
+- Created a python bot (read script :stuck_out_tongue_winking_eye:) to arrange files in a directory into a folder based on their extension.
+  - Revised python concepts.
+  - Learn python OS module.
+  - Revise regEx using python re module.
+  - Learned how to use parsearg module to make custom arguments for your script.
+
+**Minor**
+
+- Continued learning statistics on coursera.
+- Continued learning vim.
