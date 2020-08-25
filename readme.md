@@ -63,3 +63,15 @@ This is the repo I intend to maintain for next 100 days (hopefully even more) jo
   - change words/sentences : `c[w$]`
   - traversing through file using `ctrl+G`, `G`, `gg`
   - searching in file using `/`, `?` and traversing through results.
+
+
+
+### Day 5 | 25/08/20 | Tuesday
+
+**Major** 
+
+- Created a script in python to fetch rss feed from a website given its feed address.
+  - BeautifulSoup
+  - urllib3
+- Started working on a flutter app to fetch rss-feed and display on screen.
+  - Created basic boilerplate for the app.
