@@ -75,3 +75,27 @@ This is the repo I intend to maintain for next 100 days (hopefully even more) jo
   - urllib3
 - Started working on a flutter app to fetch rss-feed and display on screen.
   - Created basic boilerplate for the app.
+
+
+
+### Day 6 | 26/08/20 | Wednesday
+
+**Major**
+
+- Watch first lecture of [calculus](https://www.youtube.com/watch?v=54_XRjHhZzI&list=PLF797E961509B4EB5&index=5)
+
+**Minor**
+
+- Practiced R | edX
+- Tidied up notes folder.
+
+
+
+### Day 7 | 27/08/20 | Thursday
+
+**Major**
+
+- Watched a lecture of calculus | Professor Leonard
+- Started Learning D3.js from [Observable/Shirley Wu](https://observablehq.com/@sxywu/introduction-to-svg-and-d3-js)
+
+- Started R from r4ds book.
