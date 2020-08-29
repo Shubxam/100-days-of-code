@@ -99,3 +99,18 @@ This is the repo I intend to maintain for next 100 days (hopefully even more) jo
 - Started Learning D3.js from [Observable/Shirley Wu](https://observablehq.com/@sxywu/introduction-to-svg-and-d3-js)
 
 - Started R from r4ds book.
+
+
+
+### Day 8 | 28/08/20 | Friday
+
+- Continued w/ calculus series on youtube.
+  - Properties of limits.
+- Start a new chat app on flutter from flutter codelabs.
+- Started R project of exploring indigenous australian groups in australian demographic.
+
+
+
+### Day 9 | 29/08/20 | Saturday
+
+- Continued with R project.
